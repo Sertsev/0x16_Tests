@@ -2,16 +2,16 @@
 
 # Syntax errors
 echo -e "\n\nTesting [ echo 12 |& echo 78 ]  in the shell ==============================================\n"
-echo 'echo 12 |& echo 78' | ./simple_shell
+echo 'echo 12 |& echo 78' | ../simple_shell
 
 echo -e "\n\nTesting [ && echo 12 || echo 78 ]  in the shell ==============================================\n"
-echo '&& echo 12 || echo 78' | ./simple_shell
+echo '&& echo 12 || echo 78' | ../simple_shell
 
 echo -e "\n\nTesting [ echo 12 || echo 78 && ]  in the shell ==============================================\n"
-echo 'echo 12 || echo 78 &&' | ./simple_shell
+echo 'echo 12 || echo 78 &&' | ../simple_shell
 
 echo -e "\n\nTesting [ echo 12 |J echo 78 ]  in the shell ==============================================\n"
-echo 'echo 12 |J echo 78' | ./simple_shell
+echo 'echo 12 |J echo 78' | ../simple_shell
 
 #right syntax
 
