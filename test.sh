@@ -2,6 +2,16 @@
 i=0
 scripts_count=0
 
+"./task-0.sh"
+
+FILE=../simple_shell
+if [ -f "$FILE" ]; then
+    echo "compiled successefully! $FILE is created."
+else 
+    echo "Your code didn't compile so $FILE does not exist."
+    exit 
+fi
+
 if [[ "$1" == "-a" && "$#" == "1" ]]; then
 	# test all files
 	scripts_count=`ls | grep ".sh" | wc -l`
