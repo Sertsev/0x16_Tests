@@ -32,18 +32,10 @@ John Doe <john_doe@dogemail.com>
 ```
 ## AUTHORS
 
-```
-Elmahdi Mamoun [https://github.com/Elmahdi1962]
-```
+[Elmahdi Mamoun](https://github.com/Elmahdi1962)
 
-```
-Bezaleel Olakunori [https://github.com/B3zaleel]
-```
+[Bezaleel Olakunori](https://github.com/B3zaleel)
 
-```
-Sertsedengle Shewandagn [https://github.com/sertsev]
-```
+[Sertsedengle Shewandagn](https://github.com/sertsev)
 
-```
-Obed Amoako [https://github.com/Obed101]
-```
+[Obed Amoako](https://github.com/Obed101)
