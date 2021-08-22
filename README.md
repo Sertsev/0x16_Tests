@@ -28,4 +28,22 @@ After contributing a test case to this repo, please add your name and email addr
 
 ```
 John Doe <john_doe@dogemail.com>
+
+```
+## AUTHORS
+
+```
+Elmahdi Mamoun [https://github.com/Elmahdi1962]
+```
+
+```
+Bezaleel Olakunori [https://github.com/B3zaleel]
+```
+
+```
+Sertsedengle Shewandagn [https://github.com/sertsev]
+```
+
+```
+Obed Amoako [https://github.com/Obed101]
 ```
